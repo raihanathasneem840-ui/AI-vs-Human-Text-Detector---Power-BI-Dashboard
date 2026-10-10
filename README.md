@@ -1,4 +1,4 @@
-# Project 1: Power BI Dashboard
+#  Power BI Dashboard
 
 ## 📊 Project Overview
 
